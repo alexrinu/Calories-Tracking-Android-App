@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calories Tracker</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_map_location">MapLocation</string>
+    <string name="title_activity_google_map_current_location">GoogleMapCurrentLocation</string>
+    <string name="my_map_api_key">AIzaSyB2Mq8rZJcvRR-H_HH8Al0qYrGzQDPMbfc</string>
+    <string name="web_client_id">513073998496-9qoma0id30ibruarv55i1lmh47pf6f2a.apps.googleusercontent.com</string>
+
+</resources>
